@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - /learnAWS-1.0-SNAPSHOT.jar
+    - learnAWS-1.0-SNAPSHOT.jar
